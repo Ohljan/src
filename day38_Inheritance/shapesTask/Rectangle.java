@@ -34,17 +34,17 @@ public class Rectangle extends Shape {
          setWidth(width);
     }
 
-    @Override
+
     public double area() {
         return width * length;
     }
 
-    @Override
+
     public double perimeter() {
         return 2 * (width+length);
     }
 
-    @Override
+
     public String toString() {
         return "Rectangle{" +
                 "width=" + width +
