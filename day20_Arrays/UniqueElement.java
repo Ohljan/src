@@ -20,8 +20,6 @@ public class UniqueElement {
         }
 
 
-
-
         // to find if it s unique need to know the frequency of it
     }
 }

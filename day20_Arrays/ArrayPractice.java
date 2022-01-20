@@ -17,12 +17,6 @@ public class ArrayPractice {
         score[0]=55;
         System.out.println(Arrays.toString(score));
 
-
-
-
-
-
-
     }
 }
 
