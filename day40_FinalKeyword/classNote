@@ -10,7 +10,7 @@ Encapsulation: data hiding
 
 			   generate public getter/setters to read/write the private fileds
 
-	using thge data:
+	using the data:
 		reading the data
 		writing the data
 
